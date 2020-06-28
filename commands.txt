@@ -1,0 +1,8 @@
+ Id CommandLine
+  -- -----------
+   1 ls
+   2 git add hello.py
+   3 ls
+   4 git commit -m "2nd commit"
+   5 git remote add origin https://github.com/tech3ric/IoTProject1.git
+   6 git push -u origin master
